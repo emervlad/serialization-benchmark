@@ -1,0 +1,15 @@
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IntelliJ project files
+.idea
+.gradle
+target
+*.iml
+
+*.txt
+*.json
